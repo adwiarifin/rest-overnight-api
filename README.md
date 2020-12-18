@@ -1,0 +1,1 @@
+Original Post: https://medium.com/@matheus.alvfr/a-simple-rest-jwt-typescript-application-14961aa29ce5
